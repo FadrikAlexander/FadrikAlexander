@@ -16,7 +16,7 @@ I enjoy creating content about game development on YouTube ranging from game des
 <a href= "https://www.youtube.com/Fadrik"><img src="https://img.shields.io/badge/YouTube%20(Fadrik)-1.45k-FF0000"/></a>
 <a href= "https://twitter.com/FadrikAlexander"><img src="https://img.shields.io/badge/Twitter-313-1A8CD8"/></a>
 <a href= "https://fadrikalexander.itch.io/"><img src="https://img.shields.io/badge/Itch.io%20Portfolio-124-FA5C5C"/></a>
-<a href= "https://www.instagram.com/fadrikalexander/"><img src="https://img.shields.io/badge/Instagram-313k-FAFAFA"/></a>
+<a href= "https://www.instagram.com/fadrikalexander/"><img src="https://img.shields.io/badge/Instagram-530-FAFAFA"/></a>
 <a href= "https://www.linkedin.com/in/fadiashy/"><img src="https://img.shields.io/badge/Linkedin-415-0173A5"/></a>
 <a href= "https://www.facebook.com/FADI.ASHY"><img src="https://img.shields.io/badge/Facebook-1.6k-097EEB"/></a>
 </p>
